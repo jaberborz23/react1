@@ -1,0 +1,89 @@
+
+
+
+#customer{
+    padding: 130px 0;
+    background-color: rgba(255, 255, 255, 1);
+}
+.cus_m{
+    margin-left: 35px;
+}
+.cus_m h2{
+    color: #181818;
+font-family: Inter;
+font-size: 40px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-align: left;
+width: 603px;
+padding-bottom: 25px;
+}
+.cus_m p{
+    color: rgba(24, 24, 24, 0.70);
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 27px; /* 168.75% */
+    text-align: left;
+    width: 542px;
+  
+}
+.cus_card{
+    padding-top: 70px;
+  display: flex;
+  justify-content: space-around;
+}
+.card_bdy{
+    margin-left: 48px;
+    margin-top: 70px;
+}
+.cr_im{
+    position: relative;
+}
+.cr_im img.star1{
+    position: absolute;
+    left: 0px;
+    top: 100px;
+}
+.card p.para{
+    padding-top: 50px !important;
+}
+.icon h2{
+    color: #181818;
+
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: 27px; /* 135% */
+text-align: left;
+}
+.icon h3{
+    color: #5D5D5D !important;
+    text-align: left;
+    font-family: Inter;
+    font-size: 16px !important;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 27px; /* 168.75% */
+    
+}
+
+.icon{
+   position: relative;
+}
+.icon img{
+    position: absolute;
+    bottom: -13px;
+    left: 190px;
+}
+.cus_p{
+    position: relative;
+}
+.cus_p img{
+    position: absolute;
+    bottom: -38px;
+    right: 620px;
+}

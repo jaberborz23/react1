@@ -1,0 +1,51 @@
+
+
+#bann{
+    padding: 200px 0;
+    background-color: rgba(89, 86, 232, 1);
+}
+
+.bn_fr{
+    display: flex;
+    justify-content: space-around;
+}
+.bn_txt{
+    margin-top: 160px;
+}
+.bn_txt h1{
+    color: #FFFEFE;
+    font-family: Inter;
+    font-size: 65px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 65px; /* 123.077% */
+    width: 501px;
+}
+.bn_txt p{
+    color: #FFF;
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 27px; /* 168.75% */
+width: 542px;
+padding-top: 25px;
+padding-bottom: 24px;
+}
+.bn_txt a.BAN{
+    padding: 8px 22px;
+    color: #5956E8;
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+ line-height: normal; 
+border-radius: 6px;
+background-color:  #FFF;
+margin-left: 100px; 
+
+}
+.bn_txt a:hover{
+    background-color: grey;
+    color: black;
+}

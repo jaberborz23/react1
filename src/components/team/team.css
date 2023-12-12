@@ -1,0 +1,68 @@
+
+#team{
+    padding: 130px 0;
+}
+.t_man{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 70px;
+    
+    
+}
+.t_1{
+    position: relative;
+}
+.t_1 img{
+    width: 100%;
+}
+.t_wr{
+   position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 0%;
+    opacity: 0;
+    border-radius: 10px;
+background: linear-gradient( to top, #5956E8 -1.13%, rgba(255, 255, 255, 0.00) 58.11%) !important;
+    transition: 0.6s;
+}
+.t_1:hover .t_wr{
+    height: 100%;
+    opacity: 1;
+    cursor: pointer;
+}
+.t_wr1{
+    margin-top: 364px;
+    margin-left: 30px;
+    
+}
+.t_wr1 h2{
+    color: #FFF;
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: 27px; /* 135% */
+
+}
+.t_wr1 h3{
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 27px; /* 168.75% */
+}
+.t_pa{
+    
+margin-top: 60px;
+position: relative;
+}
+.t_pa img{ 
+    position: absolute;
+    top:19px;
+    right: 584px;
+
+}

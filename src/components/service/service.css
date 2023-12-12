@@ -1,0 +1,104 @@
+
+#service{
+    padding: 200px 0;
+}
+.ser_m{
+    margin: 0 auto;
+}
+.ser_m h2{
+    color: #181818;
+text-align: center;
+font-family: Inter;
+font-size: 40px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+padding-bottom: 20px;
+
+}
+.ser_m p{
+    color: rgba(24, 24, 24, 0.70);
+    text-align: center;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 27px; /* 168.75% */
+    width: 466px;
+    padding-left: 408px;
+
+}
+.main1{
+    display: flex;
+    padding-top: 149px;
+  justify-content: space-around;
+}
+.card{
+    width: 370px;
+height: 385px;
+flex-shrink: 0;
+border-radius: 10px;
+border: 0.5px solid #E3E3E3;
+background: #FFF;
+position: relative;
+}
+.c_sh{
+    margin-left: 48px;
+    margin-top: 75px;
+}
+.c_body{
+    width: 71px;
+    height: 71px;
+    flex-shrink: 0;
+    border-radius: 10px;
+background: #5956E8;
+margin-top: 23px;
+
+}
+.c_body1{
+    width: 71px;
+    height: 71px;
+    flex-shrink: 0;
+    border-radius: 10px;
+background: rgba(227, 227, 227, 1);
+margin-top: 23px;
+
+}
+.c_1:hover{
+    background-color: #181818;
+}
+.c_body1:hover{
+    background-color:#5956E8 ;
+}
+
+.c_body:hover{
+    background-color: #FFF;
+
+}
+.c_1{
+    position: absolute;
+    top: 89px;
+    left: 62px;
+
+}
+.card h3{
+    color: #181818;
+font-family: Inter;
+font-size: 25px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+padding-top: 10px;
+text-align: left;
+}
+.card p{
+    color: rgba(24, 24, 24, 0.70);
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 27px; /* 168.75% */
+    padding-top: 10px;
+    width: 274px;
+    
+}
